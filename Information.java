@@ -78,4 +78,4 @@ public class Information
    
 }
 
-//made with Coursera guided projetc
+//made with Coursera guided project
