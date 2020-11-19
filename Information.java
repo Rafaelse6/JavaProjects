@@ -1,9 +1,13 @@
 /*
 This is a program that outputs my name, age, and hobby 
 */
+
+//Author Rafael Santos
+
+
 import java.util.Scanner;
 
-public class MyDetails
+public class Information
 {
    // this is the entry of a Java program
    public static void main(String arg[])
@@ -44,11 +48,14 @@ public class MyDetails
    //Processing details
    averagescore = sum/3;
    age = currentyear - bornyear;
+   
+   
    if(age<21)
    { 
     older_21 = true;
     
    }
+   
    //Output
    System.out.println("My Details");
    System.out.println("-----------");
