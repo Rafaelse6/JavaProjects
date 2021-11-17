@@ -1,2 +1,2 @@
 # JavaProjects
-Some projects and practicing in Java.
+Some practicing in Java.
