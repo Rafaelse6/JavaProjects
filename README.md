@@ -1,2 +1,2 @@
 # JavaProjects
-Some practicing in Java.
+Exercises and projects in Java. .
